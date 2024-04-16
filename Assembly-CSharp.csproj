@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{fc2b0c01-aecc-ff26-2547-c64e06ce6a45}</ProjectGuid>
+    <ProjectGuid>{a7574382-32a6-af4e-a471-1773daa1f178}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -42,7 +42,44 @@
   </PropertyGroup>
   <ItemGroup>
      <Folder Include="Assets" />
+     <Folder Include="Assets\PolygonApocalypse\Prefabs\Weapons\Guns" />
+     <Folder Include="Assets\PolygonApocalypse\Materials\Character_Mats" />
+     <Folder Include="Assets\PolygonApocalypse\Prefabs\Weapons\Vehicle_Weapons" />
+     <Folder Include="Assets\PolygonApocalypse\Prefabs\Characters\Chr_Attach" />
+     <Folder Include="Assets\PolygonApocalypse\Textures" />
+     <Folder Include="Assets\PolygonApocalypse\Materials\Misc" />
+     <Folder Include="Assets\PolygonApocalypse\Prefabs\Props" />
+     <Folder Include="Assets\PolygonApocalypse\Materials\Misc\Shader" />
+     <Folder Include="Assets\PolygonApocalypse\Prefabs\Characters" />
+     <Folder Include="Assets\PolygonApocalypse\Models\Materials" />
+     <Folder Include="Assets\PolygonApocalypse\Prefabs\Weapons\Modular" />
+     <Folder Include="Assets\PolygonApocalypse\Prefabs\Generic" />
+     <Folder Include="Assets\PolygonApocalypse\Models" />
+     <Folder Include="Assets\PolygonApocalypse" />
+     <Folder Include="Assets\PolygonApocalypse\Prefabs\Vehicles\Attach" />
+     <Folder Include="Assets\PolygonApocalypse\Scenes" />
+     <None Include="Assets\PolygonApocalypse\Materials\Misc\Shader\POLYGON_Zombies.shader" />
+     <Folder Include="Assets\PolygonApocalypse\Prefabs\Buildings" />
+     <Folder Include="Assets\PolygonApocalypse\Prefabs\FX\Misc\Materials" />
+     <Folder Include="Assets\PolygonApocalypse\Prefabs\FX" />
+     <Folder Include="Assets\PolygonApocalypse\Prefabs\Vehicles" />
+     <Folder Include="Assets\PolygonApocalypse\Prefabs\Environment" />
+     <Folder Include="Assets\PolygonApocalypse\Textures\Misc" />
+     <Folder Include="Assets\PolygonApocalypse\Textures\Veh" />
+     <Folder Include="Assets\PolygonApocalypse\Prefabs\Weapons\Melee" />
+     <Folder Include="Assets\PolygonApocalypse\Materials\Alts" />
+     <Folder Include="Assets\PolygonApocalypse\Prefabs\FX\Prefabbed" />
+     <Folder Include="Assets\PolygonApocalypse\Prefabs\FX\Misc" />
+     <Folder Include="Assets\PolygonApocalypse\Prefabs" />
+     <Folder Include="Assets\PolygonApocalypse\Prefabs\Item" />
      <Folder Include="Assets\Scenes" />
+     <Folder Include="Assets\PolygonApocalypse\Prefabs\Weapons" />
+     <Folder Include="Assets\PolygonApocalypse\Prefabs\DeadBodies" />
+     <Folder Include="Assets\PolygonApocalypse\Textures\Alts" />
+     <None Include="Assets\PolygonApocalypse\Materials\Misc\Shader\SkyGradient.shader" />
+     <None Include="Assets\PolygonApocalypse\Materials\Misc\Shader\POLYGON_Triplanar.shader" />
+     <Folder Include="Assets\PolygonApocalypse\Materials" />
+     <Folder Include="Assets\PolygonApocalypse\Prefabs\Weapons\Misc" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity 2021.3.17f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
      </Reference>
