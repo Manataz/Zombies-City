@@ -350,6 +350,12 @@
 -r:"Library/Bee/artifacts/1300b0aEDbg.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aEDbg.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aEDbg.dag/UnityEngine.UI.ref.dll"
+"Assets/Prefabs/Enemies/Zombie/EnemyManager.cs"
+"Assets/Prefabs/Enemies/Zombie/TriggerCollidersScript.cs"
+"Assets/Prefabs/Enemies/Zombie/Zombie1Script.cs"
+"Assets/Scripts/CharacterMovement.cs"
+"Assets/Scripts/CharacterRotate.cs"
+"Assets/Scripts/ShootingSystem.cs"
 "Assets/Witch_Hag_Animations/Scripts/SimpleCameraController.cs"
 -langversion:9.0
 

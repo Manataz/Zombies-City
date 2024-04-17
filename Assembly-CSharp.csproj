@@ -42,6 +42,12 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Witch_Hag_Animations\Scripts\SimpleCameraController.cs" />
+     <Compile Include="Assets\Scripts\CharacterRotate.cs" />
+     <Compile Include="Assets\Prefabs\Enemies\Zombie\Zombie1Script.cs" />
+     <Compile Include="Assets\Prefabs\Enemies\Zombie\TriggerCollidersScript.cs" />
+     <Compile Include="Assets\Prefabs\Enemies\Zombie\EnemyManager.cs" />
+     <Compile Include="Assets\Scripts\ShootingSystem.cs" />
+     <Compile Include="Assets\Scripts\CharacterMovement.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets\Witch_Hag_Animations\Art\Materials" />
      <Folder Include="Assets\PolygonApocalypse\Prefabs\Weapons\Guns" />
@@ -65,6 +71,7 @@
      <Folder Include="Assets\PolygonApocalypse" />
      <Folder Include="Assets\PolygonApocalypse\Prefabs\Vehicles\Attach" />
      <Folder Include="Assets\PolygonApocalypse\Scenes" />
+     <Folder Include="Assets\Prefabs\Enemies" />
      <None Include="Assets\PolygonApocalypse\Materials\Misc\Shader\POLYGON_Zombies.shader" />
      <Folder Include="Assets\PolygonApocalypse\Prefabs\Buildings" />
      <Folder Include="Assets\PolygonApocalypse\Prefabs\FX\Misc\Materials" />
@@ -75,16 +82,19 @@
      <Folder Include="Assets\PolygonApocalypse\Textures\Misc" />
      <Folder Include="Assets\PolygonApocalypse\Textures\Veh" />
      <Folder Include="Assets\Witch_Hag_Animations\Prefabs" />
+     <Folder Include="Assets\Prefabs" />
      <Folder Include="Assets\PolygonApocalypse\Prefabs\Weapons\Melee" />
      <Folder Include="Assets\PolygonApocalypse\Materials\Alts" />
      <Folder Include="Assets\PolygonApocalypse\Prefabs\FX\Prefabbed" />
      <Folder Include="Assets\PolygonApocalypse\Prefabs\FX\Misc" />
+     <Folder Include="Assets\Scripts" />
      <Folder Include="Assets\PolygonApocalypse\Prefabs" />
      <Folder Include="Assets\Witch_Hag_Animations\Scripts" />
      <Folder Include="Assets\Witch_Hag_Animations" />
      <Folder Include="Assets\PolygonApocalypse\Prefabs\Item" />
      <Folder Include="Assets\Scenes" />
      <Folder Include="Assets\PolygonApocalypse\Prefabs\Weapons" />
+     <Folder Include="Assets\Prefabs\Enemies\Zombie" />
      <Folder Include="Assets\PolygonApocalypse\Prefabs\DeadBodies" />
      <Folder Include="Assets\PolygonApocalypse\Textures\Alts" />
      <None Include="Assets\PolygonApocalypse\Materials\Misc\Shader\SkyGradient.shader" />
