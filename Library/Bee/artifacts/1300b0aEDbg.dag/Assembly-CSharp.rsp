@@ -356,6 +356,7 @@
 "Assets/Scripts/CharacterMovement.cs"
 "Assets/Scripts/CharacterRotate.cs"
 "Assets/Scripts/ShootingSystem.cs"
+"Assets/Scripts/TouchCharacterMovement.cs"
 "Assets/Witch_Hag_Animations/Scripts/SimpleCameraController.cs"
 -langversion:9.0
 

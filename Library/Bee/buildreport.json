@@ -1,0 +1,20 @@
+{
+"instructions_readme": "1) Open Chrome, 2) go to chrome://tracing, 3) click Load, 4) navigate to this file.",
+
+"traceEvents":[
+{ "pid": "Unity", "ph":"M", "name": "process_name", "args": {"name": "Unity"} },
+{ "pid": "Unity", "ph":"M", "name": "process_sort_index", "args": {"sort_index": -100} },
+{ "pid": "Unity", "tid": 1, "ph":"M", "name": "thread_name", "args": {"name": ""} },
+{ "pid": "Unity", "tid": 1,"ts": 1.71342744089418E+15,"dur": 3315659, "ph":"X", "name": "Build player"},
+{ "pid": "Unity", "tid": 1,"ts": 1.71342744092314E+15,"dur": 35835, "ph":"X", "name": "Preprocess Player"},
+{ "pid": "Unity", "tid": 1,"ts": 1.7134274409818E+15,"dur": 3189881, "ph":"X", "name": "Prepare For Build"},
+{}
+
+],
+"meta_datetime": "04/18/2024 11:34:04",
+"meta_command_line": "\"C:\\Program Files\\Unity 2021.3.17f1\\Editor\\Unity.exe\" -projectpath D:\\ZombieCity-ManatazStudio\\Zombies-City -useHub -hubIPC -cloudEnvironment production -licensingIpc LicenseClient-RSKALA -hubSessionId 6eba4eb5-0e1a-4412-bdbb-1acb6e3fe5a4 -accessToken aO3oYyiy49_1X9eTwO6xBVLWRInJZ8aZANUh4mZRXx4008f",
+"meta_command_line_args": "C:\\Program Files\\Unity 2021.3.17f1\\Editor\\Unity.exe -projectpath D:\\ZombieCity-ManatazStudio\\Zombies-City -useHub -hubIPC -cloudEnvironment production -licensingIpc LicenseClient-RSKALA -hubSessionId 6eba4eb5-0e1a-4412-bdbb-1acb6e3fe5a4 -accessToken aO3oYyiy49_1X9eTwO6xBVLWRInJZ8aZANUh4mZRXx4008f",
+"meta_user_name": "RSKALA",
+"meta_os_version": "Microsoft Windows NT 10.0.19045.0",
+"meta_cpu_count": "12"
+}

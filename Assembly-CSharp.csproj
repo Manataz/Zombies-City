@@ -42,21 +42,25 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Witch_Hag_Animations\Scripts\SimpleCameraController.cs" />
-     <Compile Include="Assets\Scripts\CharacterRotate.cs" />
-     <Compile Include="Assets\Prefabs\Enemies\Zombie\Zombie1Script.cs" />
-     <Compile Include="Assets\Prefabs\Enemies\Zombie\TriggerCollidersScript.cs" />
      <Compile Include="Assets\Prefabs\Enemies\Zombie\EnemyManager.cs" />
      <Compile Include="Assets\Scripts\ShootingSystem.cs" />
+     <Compile Include="Assets\Scripts\CharacterRotate.cs" />
+     <Compile Include="Assets\Prefabs\Enemies\Zombie\TriggerCollidersScript.cs" />
+     <Compile Include="Assets\Prefabs\Enemies\Zombie\Zombie1Script.cs" />
      <Compile Include="Assets\Scripts\CharacterMovement.cs" />
+     <Compile Include="Assets\Scripts\TouchCharacterMovement.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets\Witch_Hag_Animations\Art\Materials" />
      <Folder Include="Assets\PolygonApocalypse\Prefabs\Weapons\Guns" />
+     <Folder Include="Assets\Animation" />
+     <Folder Include="Assets\Prefabs\3D models" />
      <Folder Include="Assets\PolygonApocalypse\Materials\Character_Mats" />
      <Folder Include="Assets\PolygonApocalypse\Prefabs\Weapons\Vehicle_Weapons" />
      <Folder Include="Assets\PolygonApocalypse\Prefabs\Characters\Chr_Attach" />
      <Folder Include="Assets\PolygonApocalypse\Textures" />
      <Folder Include="Assets\PolygonApocalypse\Materials\Misc" />
      <Folder Include="Assets\Witch_Hag_Animations\Art\Animations" />
+     <Folder Include="Assets\Animation\WeaponAnimation" />
      <Folder Include="Assets\Witch_Hag_Animations\Art\Animations\Cauldron" />
      <Folder Include="Assets\Witch_Hag_Animations\Art\Models\Props" />
      <Folder Include="Assets\PolygonApocalypse\Prefabs\Props" />
@@ -72,12 +76,14 @@
      <Folder Include="Assets\PolygonApocalypse\Prefabs\Vehicles\Attach" />
      <Folder Include="Assets\PolygonApocalypse\Scenes" />
      <Folder Include="Assets\Prefabs\Enemies" />
+     <Folder Include="Assets\Prefabs\Texture" />
      <None Include="Assets\PolygonApocalypse\Materials\Misc\Shader\POLYGON_Zombies.shader" />
      <Folder Include="Assets\PolygonApocalypse\Prefabs\Buildings" />
      <Folder Include="Assets\PolygonApocalypse\Prefabs\FX\Misc\Materials" />
      <Folder Include="Assets\Witch_Hag_Animations\Art\Models" />
      <Folder Include="Assets\PolygonApocalypse\Prefabs\FX" />
      <Folder Include="Assets\PolygonApocalypse\Prefabs\Vehicles" />
+     <Folder Include="Assets\Prefabs\Materials" />
      <Folder Include="Assets\PolygonApocalypse\Prefabs\Environment" />
      <Folder Include="Assets\PolygonApocalypse\Textures\Misc" />
      <Folder Include="Assets\PolygonApocalypse\Textures\Veh" />
